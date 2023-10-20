@@ -22,3 +22,4 @@ typedef struct format
 
 int printf_pointer(va_list val);
 
+#endif
